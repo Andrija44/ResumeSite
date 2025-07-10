@@ -1,0 +1,36 @@
+.title-container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.dark-mode-toggle, .language-toggle {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+    padding-top: 20px;
+}
+
+.dark-mode-toggle button, .language-toggle button {
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    padding: 0;
+    margin: 0;
+    font-size: larger;
+}
+
+#sun-icon {
+    color: var(--sun-color);
+}
+
+#moon-icon {
+    color: var(--moon-color);
+}
+
+.title-description {
+    margin: 0 40px;
+    text-align: center;
+}

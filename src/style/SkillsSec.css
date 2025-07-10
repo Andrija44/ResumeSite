@@ -1,0 +1,30 @@
+.skills-sec {
+    display: flex;
+    justify-content: center;
+    align-items: left;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+
+.skills {
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 16px;
+    padding-top: 0;
+    margin: 16px;
+    margin-top: 0;
+    min-height: 200px;
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    gap: 8px;
+    box-shadow: 0 4px 8px var(--shadow-color);
+}
+
+.skill-element {
+    display: flex;
+    gap: 10px;
+    box-sizing: border-box;
+    font-size: large;
+    align-items: center;
+}

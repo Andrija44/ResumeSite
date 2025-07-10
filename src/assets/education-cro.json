@@ -1,0 +1,10 @@
+[
+    {
+        "name": "Sveučilište u Zagrebu, Fakultet elektrotehnike i računarstva",
+        "location": "Hrvatska",
+        "start-date": "lis 2022",
+        "end-date": "lip 2025",
+        "degree": "Sveučilišni prvostupnik inženjer računarstva",
+        "thesis": "Paralelizacija kartezijskog genetskog programiranja koristeći OpenMP"
+    }
+]

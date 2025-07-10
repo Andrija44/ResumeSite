@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Ericsson Nikola Tesla",
+        "location": "Zagreb, Hrvatska",
+        "start-date": "lip 2023",
+        "end-date": "lip 2025",
+        "position": "Pripravnik za razvoj softvera",
+        "description": [
+            "Radio na pisanju i održavanju testnih slučajeva za QA tim",
+            "Radio na izradi internih mrežnih alata",
+            "Radio na refaktoriranju koda potrebnog za rad"
+        ]
+    }
+]

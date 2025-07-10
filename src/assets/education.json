@@ -1,0 +1,10 @@
+[
+    {
+        "name": "University of Zagreb, Faculty of Electrical Engineering and Computing",
+        "location": "Croatia",
+        "start-date": "Oct 2022",
+        "end-date": "Jul 2025",
+        "degree": "Bachelor of Science in Computer Engineering",
+        "thesis": "Parallelization of Cartesian genetic programming using OpenMP"
+    }
+]

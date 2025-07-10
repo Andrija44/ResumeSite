@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Ericsson Nikola Tesla",
+        "location": "Zagreb, Croatia",
+        "start-date": "Jun 2023",
+        "end-date": "Jun 2025",
+        "position": "Software Developer Intern",
+        "description": [
+            "Worked on writing and maintaining test cases for Quality Assurance team",
+            "Worked on creating internal networking tools for the company",
+            "Worked on refactoring code for multiple teams"
+        ]
+    }
+]
