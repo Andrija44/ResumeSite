@@ -30,8 +30,8 @@ function App() {
                 <p className='contact-info'>
                     <a className="email" href="mailto:macekandrija@gmail.com">
                         <span>
-                            macekandrija@gmail.com
                             <MdMailOutline />
+                            macekandrija@gmail.com
                         </span>
                     </a>
                     <a className="linkedin" href="https://www.linkedin.com/in/andrija-ma%C4%8Dek-639918262/" target="_blank" rel="noopener noreferrer">

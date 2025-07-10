@@ -34,3 +34,19 @@
     margin: 0 40px;
     text-align: center;
 }
+
+@media screen and (max-width: 600px) {
+    .title-container {
+        flex-wrap: wrap;
+    }
+    
+    .dark-mode-toggle, .language-toggle {
+        padding: 10px 0;
+        flex-direction: row;
+    }
+    
+    .title-description {
+        margin: 10px 20px;
+    }
+    
+}

@@ -52,3 +52,16 @@ h2 {
     font-size: 0.8em;
     color: var(--not-text);
 }
+
+@media screen and (max-width: 600px) {
+    #root {
+        margin: 0;
+        border-radius: 0;
+    }
+
+    .contact-info {
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+    }
+}

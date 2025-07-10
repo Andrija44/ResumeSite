@@ -16,6 +16,13 @@
     justify-content: space-between;
 }
 
-.education-element > p {
-    margin: 0;
+.education-element p {
+    margin: 2px 0;
+}
+
+@media screen and (max-width: 600px) {
+    .education-element p {
+        margin: 5px 0;
+    }
+    
 }
