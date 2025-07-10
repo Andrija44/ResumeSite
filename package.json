@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://Andrija44.github.io/ResumeSite/",
+  "homepage": "https://amacek.dev",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
