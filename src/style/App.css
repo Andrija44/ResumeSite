@@ -9,3 +9,46 @@
 h2 {
     padding-left: 20px;
 }
+
+.contact-footer {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.contact-info {
+    display: inline-grid;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    gap: 50px;
+    grid-template-columns: 5fr [col1] 1fr [col2] 5fr;
+}
+
+.contact-info a {
+    text-decoration: none;
+    color: var(--link-color);
+}
+
+.contact-info span:hover {
+    transition-duration: 0.2s;
+    text-shadow: 0 0 16px var(--shadow-hover-color);
+    color: var(--link-hover-color);
+}
+
+.contact-info span {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.linkedin {
+    grid-column-start: col2;
+    width: fit-content;
+}
+
+.copyright {
+    margin-top: 30px;
+    font-size: 0.8em;
+    color: var(--not-text);
+}
