@@ -17,10 +17,10 @@ function App() {
     return (
         <>
             <TitleSec setDark={setDark} lang={lang} setLang={setLang} />
-            <ProjectSec lang={lang} />
-            <SkillsSec lang={lang} />
             <EducationSec lang={lang} />
             <WorkSec lang={lang} />
+            <ProjectSec lang={lang} />
+            <SkillsSec lang={lang} />
         </>
     )
 }

@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react"
 
-const CACHE_DURATION = 20 * 60 * 1000
+const CACHE_DURATION = import.meta.env.VITE_CACHE_DURATION
 
 export function useFetchWithCache<T>(url: string) {
     const [data, setData] = useState<T | null>(null)
