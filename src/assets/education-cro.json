@@ -3,8 +3,15 @@
         "name": "Sveučilište u Zagrebu, Fakultet elektrotehnike i računarstva",
         "location": "Hrvatska",
         "start-date": "lis 2022",
-        "end-date": "lip 2025",
+        "end-date": "srp 2025",
         "degree": "Sveučilišni prvostupnik inženjer računarstva",
         "thesis": "Paralelizacija kartezijskog genetskog programiranja koristeći OpenMP"
+    },
+    {
+        "name": "Tehnička škola Zagreb",
+        "location": "Hrvatska",
+        "start-date": "ruj 2018",
+        "end-date": "lip 2022",
+        "degree": "Srednjoškolska diploma"
     }
 ]

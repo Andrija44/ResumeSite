@@ -6,5 +6,12 @@
         "end-date": "Jul 2025",
         "degree": "Bachelor of Science in Computer Engineering",
         "thesis": "Parallelization of Cartesian genetic programming using OpenMP"
+    },
+    {
+        "name": "Technical School Zagreb",
+        "location": "Croatia",
+        "start-date": "Sep 2018",
+        "end-date": "Jun 2022",
+        "degree": "High school degree"
     }
 ]
