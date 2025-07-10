@@ -24,7 +24,7 @@
 
 @media screen and (max-width: 600px) {
     .project-link {
-        min-height: 200px;
+        min-width: 150px;
     }
 }
 
