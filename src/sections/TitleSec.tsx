@@ -17,7 +17,7 @@ function TitleSec({ setDark, lang, setLang }: { setDark: (d: boolean) => void, l
             </div>
             <p className="title-description">
                 {lang === "hr" ?
-                "Student sam računarstva na Sveučilištu u Zagrebu, Fakultetu elektrotehnike i računarstva. Zainteresiran sam za programiranje, razvoju aplikacija za web i progrmsko inženjerstvo. Ovo je moja osobna stranica na kojoj možete pronaći informacije o mojim projektima, vještinama i obrazovanju." :
+                "Student sam računarstva na Sveučilištu u Zagrebu, Fakultetu elektrotehnike i računarstva. Zainteresiran sam za programiranje, razvoj aplikacija za web i programsko inženjerstvo. Ovo je moja osobna stranica na kojoj možete pronaći informacije o mojim projektima, vještinama i obrazovanju." :
                 "I am a computer science student at the University of Zagreb, Faculty of Electrical Engineering and Computing. I am passionate about programming, web development, and software engineering. This is my personal portfolio website where you can find information about my projects, skills, and education."}
             </p>
         </div>
