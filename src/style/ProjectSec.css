@@ -50,6 +50,10 @@ body.dark .project {
     transform: scale(1.03);
 }
 
+body.dark .project:hover {
+    box-shadow: 0 4px 8px var(--shadow-hover-color);
+}
+
 .project p {
     margin: 0;
 }
