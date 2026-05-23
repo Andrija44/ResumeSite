@@ -10,6 +10,10 @@
     box-shadow: 0 4px 8px var(--shadow-color);
 }
 
+body.dark .work-element {
+    box-shadow: 0 0 4px var(--shadow-color);
+}
+
 .work-header {
     display: flex;
     flex-direction: row;

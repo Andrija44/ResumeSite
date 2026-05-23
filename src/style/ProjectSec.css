@@ -36,6 +36,12 @@
     flex: 1;
     box-shadow: 0 4px 8px var(--shadow-color);
     transition: 0.3s;
+    min-width: 25%;
+    max-width: 30%;
+}
+
+body.dark .project {
+    box-shadow: 0 0 4px var(--shadow-color);
 }
 
 .project:hover {

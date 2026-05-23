@@ -9,7 +9,7 @@ import { FaLinkedin } from "react-icons/fa"
 import { MdMailOutline } from "react-icons/md"
 
 function App() {
-    const [dark, setDark] = useState(true)
+    const [dark, setDark] = useState(false)
     const [lang, setLang] = useState("hr")
 
     useEffect(() => {
@@ -28,10 +28,10 @@ function App() {
                     {lang === "hr" ? "Kontakt:" : "Contact:"}
                 </p>
                 <p className='contact-info'>
-                    <a className="email" href="mailto:macekandrija@gmail.com">
+                    <a className="email" href="mailto:andrijamacek75@gmail.com">
                         <span>
                             <MdMailOutline />
-                            macekandrija@gmail.com
+                            andrijamacek75@gmail.com
                         </span>
                     </a>
                     <a className="linkedin" href="https://www.linkedin.com/in/andrija-ma%C4%8Dek-639918262/" target="_blank" rel="noopener noreferrer">
@@ -42,7 +42,7 @@ function App() {
                     </a>
                 </p>
                 <p className='copyright'>
-                    Copyright © 2025 Andrija Maček
+                    Copyright © 2026 Andrija Maček
                 </p>
             </footer>
         </>
